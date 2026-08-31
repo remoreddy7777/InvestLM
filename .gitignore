@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large ML model files
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Training checkpoints
+checkpoint-*/
+checkpoints/
+
+# Local datasets / generated data
+data/
+*.csv
+*.parquet
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Colab / temporary files
+/content/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
