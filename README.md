@@ -1,5 +1,4 @@
-99% of storage used … If you run out, you can't create, edit and upload files. Get 30 GB for ₹15 for 3 months ₹59.
-100%
+
 ---
 base_model: tarun7r/Finance-Llama-8B
 library_name: peft
